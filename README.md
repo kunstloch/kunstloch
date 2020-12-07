@@ -1,4 +1,9 @@
-### Hi there 👋
+### Alexander Scherer-Sokolowski - web developer with sales background
+
+Hi there 👋 I am Alexander Scherer.
+I’m currently working at [fiskaly GmbH](https://developer.fiskaly.com/) in Vienna, Austria.
+
+Finde my website here: [alexscherer.dev](https://www.alexscherer.dev/)
 
 <!--
 **kunstloch/kunstloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
